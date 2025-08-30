@@ -1,19 +1,24 @@
 # todo-list
 
-A simple command-line To-Do List application written in Python.  
-This project was built as part of my CS50 learning journey to practice CRUD operations and working with user input.
+## 🚀 Overview  
+A simple command-line to-do list program written in Python. Users can add, delete, and mark tasks as complete. This project was built as practice for file handling, loops, and interactive user input.
 
-## Features
-- Add tasks
-- View tasks
-- Mark tasks as complete
-- Delete tasks
-- Save tasks to a file (optional, if you implemented this)
+## ✨ Features  
+- Add tasks to a list  
+- Delete tasks by index  
+- Mark tasks as complete  
+- (Optional) Save tasks to a file for persistence  
 
-## Technologies Used
-- Python 3
+## 🛠️ Technologies Used  
+- Python 3  
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/todo-list.git
+## 📂 Installation & Usage  
+```bash
+# Clone this repository
+git clone https://github.com/YOUR_USERNAME/todo-list.git
+
+# Navigate into the folder
+cd todo-list
+
+# Run the program
+python todo.py
